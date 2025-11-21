@@ -1,7 +1,7 @@
 <!-- ![](https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif) -->
 <h1 align="center">
   Hey there, I am Pradnya!
-  <img src="medium-wave.gif" width="45">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
 </h1>
 
 <!-- ## Who Am I?
@@ -18,7 +18,7 @@ Currently focused on **Cloud, DevOps, Backend Engineering**, while exploring **S
 
 ## Who Am I?
 
-<img align="right" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" height="300">
+<img align="right" src="medium-wave.gif" height="300">
 
 - A hands-on creative software developer with **strong problem-solving abilities and attention to detail**.   
 - I’m a **full-stack developer** who loves to **build scalable systems and optimize infrastructure**.   
